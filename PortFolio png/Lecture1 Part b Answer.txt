@@ -1,0 +1,2 @@
+print("Name is sachintha Keshan")
+print("School name is Sri sangabodhi national collage")
